@@ -1,4 +1,3 @@
-https://srosaka.github.io/Painel-social/
 <h1 align="center"> SrOsaka Linktree </h1>
 
 <p align="center">
